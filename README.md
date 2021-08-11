@@ -1,7 +1,7 @@
 # Cuckoo-short_video_sharing_app
 Cuckoo app is a short video sharing app
 
-
+https://user-images.githubusercontent.com/68297349/129055242-915dc7e7-28a4-48eb-9a23-262df34b3607.mp4
 ![Screenshot_20210811_201159](https://user-images.githubusercontent.com/68297349/129053483-03afcc70-4a92-448a-b571-37f2c207b4a9.jpg)
 ![Screenshot_20210811_201204](https://user-images.githubusercontent.com/68297349/129053499-d8102fe8-87d2-428f-a71c-cb2b5a5813bd.jpg)
 ![Screenshot_20210811_201208](https://user-images.githubusercontent.com/68297349/129053526-825328e6-8390-44f9-8631-fd963984dc12.jpg)
