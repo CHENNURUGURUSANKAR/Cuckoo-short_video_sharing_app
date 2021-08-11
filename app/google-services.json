@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105420621809",
+    "project_id": "cuckoo-short-video-app",
+    "storage_bucket": "cuckoo-short-video-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105420621809:android:e8d390d5c124e154036650",
+        "android_client_info": {
+          "package_name": "com.gurusankar149.cuckoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105420621809-1qut16r0qt48iriuqtpd1i9su9vgd5kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKcYt8fAr91azH5lgpoG0vRG4le3FVBHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105420621809-1qut16r0qt48iriuqtpd1i9su9vgd5kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
